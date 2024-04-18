@@ -2,9 +2,7 @@
 <html>
 <head>
 <style>
-/* This style sets the width of all images to 100%: */
-img {
-  width: 100%;
+
 }
 </style>
 </head>
